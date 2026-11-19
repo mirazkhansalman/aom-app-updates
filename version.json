@@ -1,7 +1,7 @@
 {
   "version": "1.4.0",
   "releaseDate": "2026-11-19",
-  "changelog": "Official Release v1.4.0: One-Click Silent In-App Auto-Updates, 180-second Distributed Collaborative Edit Lock, and 100% English UI.",
+  "changelog": "Official Release v1.4.0: Zero-Plaintext AES-256 Vault Encryption for Student Records & Settings, One-Click Auto-Updates, 180s Collaborative Edit Lock, and 100% English UI.",
   "downloadUrl": "https://github.com/mirazkhansalman/aom-app-updates/releases/download/v1.4.0/app.asar",
-  "sha256": "5c1f450f082918928075603a74c002d1ce1d9937ce7be598586900d2f3032ef7"
+  "sha256": "6b1fb9ec967773bea8361fb93c273cabc79af14262b8e20a266dccef0d19c497"
 }
