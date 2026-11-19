@@ -1,12 +1,13 @@
 {
   "version": "1.4.2",
-  "build": 79,
-  "commit": "ec26d93",
+  "build": 80,
+  "commit": "fd04e3a",
   "display": "v1.4",
-  "buildDisplay": "Build 79 (ec26d93)",
-  "fullDisplay": "v1.4\nBuild 79 (ec26d93)",
-  "releaseDate": "2026-11-19",
+  "buildDisplay": "Build 80 (fd04e3a)",
+  "fullDisplay": "v1.4\nBuild 80 (fd04e3a)",
+  "releaseDate": "2026-11-20",
   "changelog": "Official Release v1.4 (Build 79): Automatic OS-level hidden attribute for User_Data folder on Windows & macOS, retaining unhidden access to internal records.",
-  "downloadUrl": "https://github.com/mirazkhansalman/aom-app-updates/releases/download/v1.4.1/app.asar",
-  "sha256": "b59a91aca52298fd186c7f213d9f707270437055d5211dbdc7d36ae215e70169"
+  "downloadUrl": "https://github.com/mirazkhansalman/aom-app-updates/releases/download/v1.4.2/app.asar",
+  "sha256": "e1836b45a6eb384b9ab492c0ee90c1799fbf74ecfb3b04a83c046a481a76ca8c",
+  "signature": "Vo4pgEPKHLBy+i/AtYTvHeJmTa104h9t94Kn8UyCgu/vVP4InejjmCCkERpocNeUEnLF+2tb5YB+lp4yT/WeDQ=="
 }
