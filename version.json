@@ -1,7 +1,7 @@
 {
   "version": "1.4.1",
   "releaseDate": "2026-11-19",
-  "changelog": "Official Release v1.4.1: Zero-Plaintext AES-256 Vault Encryption for Student Records & Settings, Polished About Tab, Inline Update Status Indicator, and Rock-Solid In-App Auto-Updater.",
+  "changelog": "Official Release v1.4.1: Hardware-Bound Super-Admin Master Configuration Vault, Zero-Plaintext Credential Protection, and In-App Auto-Updates.",
   "downloadUrl": "https://github.com/mirazkhansalman/aom-app-updates/releases/download/v1.4.1/app.asar",
-  "sha256": "5ca3076a55e672f79df0afd3bca016f5e92e0812f28d9db6423a3b37d8d9335b"
+  "sha256": "05833f3b139ae28f707b13cb8e1102cc257853111cc5379fc2005d0139935b2d"
 }
