@@ -1,7 +1,7 @@
 {
   "version": "1.4.1",
   "releaseDate": "2026-11-19",
-  "changelog": "Official Release v1.4.1: Hardware-Bound Super-Admin Master Configuration Vault, Zero-Plaintext Credential Protection, and In-App Auto-Updates.",
+  "changelog": "Official Release v1.4.1: Unified In-App Super-Admin Master Configuration Vault, Zero-Plaintext Hardware-Bound Encryption, and Rock-Solid In-App Auto-Updates.",
   "downloadUrl": "https://github.com/mirazkhansalman/aom-app-updates/releases/download/v1.4.1/app.asar",
-  "sha256": "05833f3b139ae28f707b13cb8e1102cc257853111cc5379fc2005d0139935b2d"
+  "sha256": "25e5981fd9fbac1a5ec5ee8803153a064ba6cdd7ba3ce8736d9948435436c08e"
 }
