@@ -1,7 +1,12 @@
 {
-  "version": "1.4.1",
+  "version": "1.4",
+  "build": 68,
+  "commit": "ce090fa",
+  "display": "v1.4",
+  "buildDisplay": "Build 68 (ce090fa)",
+  "fullDisplay": "v1.4\nBuild 68 (ce090fa)",
   "releaseDate": "2026-11-19",
-  "changelog": "Official Release v1.4.1: Unified In-App Super-Admin Master Configuration Vault, Zero-Plaintext Hardware-Bound Encryption, and Rock-Solid In-App Auto-Updates.",
+  "changelog": "Official Release v1.4 (Build 68): Unified In-App Super-Admin Master Configuration Vault, Zero-Plaintext Hardware-Bound Encryption, Sub-Version Build Metadata, and Resilient In-App Auto-Updates.",
   "downloadUrl": "https://github.com/mirazkhansalman/aom-app-updates/releases/download/v1.4.1/app.asar",
-  "sha256": "25e5981fd9fbac1a5ec5ee8803153a064ba6cdd7ba3ce8736d9948435436c08e"
+  "sha256": "98b679ac30c7c228d048ddf5f2bb0769e3780abb128ad13fa3917a7fec912336"
 }
