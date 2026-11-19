@@ -1,12 +1,12 @@
 {
   "version": "1.4.2",
-  "build": 75,
-  "commit": "1be947c",
+  "build": 77,
+  "commit": "b625ea2",
   "display": "v1.4",
-  "buildDisplay": "Build 75 (1be947c)",
-  "fullDisplay": "v1.4\nBuild 75 (1be947c)",
+  "buildDisplay": "Build 77 (b625ea2)",
+  "fullDisplay": "v1.4\nBuild 77 (b625ea2)",
   "releaseDate": "2026-11-19",
-  "changelog": "Official Release v1.4 (Build 75): Clean frameless update status indicator, unified harmonious Release & Channel metadata typography, and symmetrical padding.",
+  "changelog": "Official Release v1.4 (Build 77): Full test suite verified (61/61 passed), clean frameless update status indicator, unified harmonious metadata typography, and symmetrical section padding.",
   "downloadUrl": "https://github.com/mirazkhansalman/aom-app-updates/releases/download/v1.4.1/app.asar",
-  "sha256": "ec15945b492eeeea716c0376c88f17aec81c966f94ff6161815537db703926e0"
+  "sha256": "e071931a1569df2f0bc5f7504c6bc94dca79e60056276db672399ee74c2fef0c"
 }
