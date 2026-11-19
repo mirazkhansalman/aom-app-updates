@@ -1,12 +1,12 @@
 {
   "version": "1.4.2",
-  "build": 69,
-  "commit": "1fc2f37",
+  "build": 71,
+  "commit": "2e6b3eb",
   "display": "v1.4",
-  "buildDisplay": "Build 69 (1fc2f37)",
-  "fullDisplay": "v1.4\nBuild 69 (1fc2f37)",
+  "buildDisplay": "Build 71 (2e6b3eb)",
+  "fullDisplay": "v1.4\nBuild 71 (2e6b3eb)",
   "releaseDate": "2026-11-19",
-  "changelog": "Official Release v1.4 (Build 69): Refined About tab layout (1/3 Version Details, 2/3 About App) and repositioned update status indicator.",
+  "changelog": "Official Release v1.4 (Build 71): Unified symmetrical top and side padding across all tabs, refined About grid (1/3 & 2/3), and repositioned update status indicator.",
   "downloadUrl": "https://github.com/mirazkhansalman/aom-app-updates/releases/download/v1.4.1/app.asar",
-  "sha256": "4d891b8deef9b81ae3b271a124b530eb645eacc3c999bfe3ba59e68987c70caa"
+  "sha256": "86ebf131121cbd01f19e8e4cb41e956ca643a31b4dacb8398f91c14b54d89769"
 }
