@@ -1,12 +1,12 @@
 {
   "version": "1.4.2",
-  "build": 73,
-  "commit": "a49cce3",
+  "build": 75,
+  "commit": "1be947c",
   "display": "v1.4",
-  "buildDisplay": "Build 73 (a49cce3)",
-  "fullDisplay": "v1.4\nBuild 73 (a49cce3)",
+  "buildDisplay": "Build 75 (1be947c)",
+  "fullDisplay": "v1.4\nBuild 75 (1be947c)",
   "releaseDate": "2026-11-19",
-  "changelog": "Official Release v1.4 (Build 73): Symmetrical top/side section padding, inverted build badge colors with matching bold styling, refined 1/3 and 2/3 About grid.",
+  "changelog": "Official Release v1.4 (Build 75): Clean frameless update status indicator, unified harmonious Release & Channel metadata typography, and symmetrical padding.",
   "downloadUrl": "https://github.com/mirazkhansalman/aom-app-updates/releases/download/v1.4.1/app.asar",
-  "sha256": "aa44ce3241f74941d086a713aaa3d470eae3fdaa5baf6263d6e8f1da31c1f862"
+  "sha256": "ec15945b492eeeea716c0376c88f17aec81c966f94ff6161815537db703926e0"
 }
